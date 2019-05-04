@@ -1,0 +1,21 @@
+h1 {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+
+.navbar {
+    min-height: 80px;
+    background-color: #add3a7;
+  }
+
+.container-fluid {
+    min-height: 80px;
+    background-color: #add3a7;
+}
+
+.container {
+    border-radius:.5rem .5rem 0rem 0rem
+}
